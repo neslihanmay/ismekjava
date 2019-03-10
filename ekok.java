@@ -2,7 +2,7 @@ package DONGULER;
 
 import java.util.Scanner;
 
-public class örnek2 {
+public class Ã¶rnek2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
