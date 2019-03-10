@@ -2,7 +2,7 @@ package DONGULER;
 
 import java.util.Scanner;
 
-public class örnek {
+public class Ã¶rnek {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,7 +11,7 @@ System.out.println("sayi giriniz");
 		int bulunacakSayi = klavyedenAl.nextInt();
 		for (int i = 2; i <= bulunacakSayi; i++) {
 			if (bulunacakSayi % i == 0) {
-				System.out.println("sayi" + i + "bölünür");
+				System.out.println("sayi" + i + "bÃ¶lÃ¼nÃ¼r");
 			}
 		}
 
